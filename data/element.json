@@ -1,0 +1,35 @@
+{
+  "description": "Probe-fed stacked patch over an infinite PEC ground plane; E-field along x (array rows, E-plane).",
+  "length_unit": "free-space wavelength at the centre frequency",
+  "lattice_pitch": 0.5,
+  "laminate": {
+    "eps_r": 2.2,
+    "tan_delta": 0.0009,
+    "height": 0.033625
+  },
+  "driven_patch": {
+    "length_x": 0.341231,
+    "width_y": 0.318249,
+    "z": 0.033625
+  },
+  "spacer": {
+    "eps_r": 1.07,
+    "tan_delta": 0.001,
+    "height": 0.086314
+  },
+  "parasitic_patch": {
+    "length_x": 0.313484,
+    "width_y": 0.442584,
+    "z": 0.119939
+  },
+  "feed": {
+    "type": "coaxial probe, lumped 50-ohm port on the annulus a < r < b in the ground plane",
+    "offset_x_from_patch_centre": -0.15367,
+    "probe_radius_a": 0.006725,
+    "port_outer_radius_b": 0.021711
+  },
+  "frequencies_f_over_f0": [
+    0.968503937007874,
+    1
+  ]
+}

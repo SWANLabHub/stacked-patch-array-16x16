@@ -1,0 +1,11 @@
+{
+  "title": "Full-wave S-matrix and embedded element patterns of a 16 × 16 stacked-patch array",
+  "upload_type": "dataset",
+  "creators": [
+    {"name": "Kalfa, Mert", "affiliation": "Sabancı University", "orcid": "0000-0002-6462-1776"}
+  ],
+  "description": "Full-wave scattering matrix (256 ports) and embedded element patterns of a 16 × 16 array of probe-fed stacked patches over an infinite ground plane, at the centre frequency and at the lower edge of a 6.3 % band. Frequencies are normalized to the centre frequency and lengths to the free-space wavelength. Computed with Palace 0.16.0. See README.md for conventions and accuracy.",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["phased array", "mutual coupling", "scattering matrix", "embedded element pattern", "full-wave simulation"]
+}

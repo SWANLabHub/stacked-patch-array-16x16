@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Full-wave S-matrix and embedded element patterns of a 16 × 16 stacked-patch array"
+authors:
+  - family-names: Kalfa
+    given-names: Mert
+    orcid: "https://orcid.org/0000-0002-6462-1776"
+    affiliation: "Sabancı University"
+license: CC-BY-4.0
+version: "1.0.0"
+keywords:
+  - phased array
+  - mutual coupling
+  - scattering matrix
+  - embedded element pattern
+  - full-wave simulation
