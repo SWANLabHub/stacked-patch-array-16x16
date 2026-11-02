@@ -1,0 +1,3 @@
+numpy
+h5py
+matplotlib  # optional, for the example plots
