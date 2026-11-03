@@ -1,5 +1,7 @@
 # Full-wave S-matrix and embedded element patterns of a 16 × 16 stacked-patch array
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23912674.svg)](https://doi.org/10.5281/zenodo.23912674)
+
 This dataset gives the full-wave scattering matrix and the embedded element patterns of a 16 × 16 phased array of
 probe-fed stacked patches over an infinite ground plane. It includes MATLAB and Python code that reads the data and
 checks it. The paper that uses these data will be referenced here when it is published.
@@ -83,7 +85,12 @@ a new reader.
 - **Material values:** these are model values, not data-sheet values of a specific laminate or foam.
 
 ## Citation
-Cite the dataset with its DOI (see the repository's release page or `CITATION.cff`) and the paper that uses it.
+Cite the dataset with its DOI and the paper that uses it.
+- All versions (resolves to the latest version): https://doi.org/10.5281/zenodo.23912674
+- Version 1.0.0: https://doi.org/10.5281/zenodo.23912675
+
+Kalfa M. Full-wave S-matrix and embedded element patterns of a 16 × 16 stacked-patch array, version 1.0.0 [dataset].
+Zenodo, 2026. https://doi.org/10.5281/zenodo.23912675
 
 ## Licence
 The data and this documentation: Creative Commons Attribution 4.0 International (CC BY 4.0), see `LICENSE`.

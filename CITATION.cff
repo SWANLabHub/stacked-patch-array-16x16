@@ -9,7 +9,16 @@ authors:
     affiliation: "SWAN Lab, Sabancı University"
 license: CC-BY-4.0
 repository-code: "https://github.com/SWANLabHub/stacked-patch-array-16x16"
+doi: "10.5281/zenodo.23912674"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23912674"
+    description: "Concept DOI: all versions; resolves to the latest version"
+  - type: doi
+    value: "10.5281/zenodo.23912675"
+    description: "Version 1.0.0"
 version: "1.0.0"
+date-released: "2026-11-03"
 keywords:
   - phased array
   - mutual coupling
