@@ -6,7 +6,7 @@ authors:
   - family-names: Kalfa
     given-names: Mert
     orcid: "https://orcid.org/0000-0002-6462-1776"
-    affiliation: "Sabancı University"
+    affiliation: "SWAN Lab, Sabancı University"
 license: CC-BY-4.0
 repository-code: "https://github.com/SWANLabHub/stacked-patch-array-16x16"
 version: "1.0.0"
